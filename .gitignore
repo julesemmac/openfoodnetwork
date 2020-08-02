@@ -45,3 +45,5 @@ coverage
 /reports/
 !/reports/README.md
 bin/
+.gitpod.yml
+.gitpod.Dockerfile
