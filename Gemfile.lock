@@ -381,9 +381,7 @@ GEM
     foundation-icons-sass-rails (3.0.0)
       railties (>= 3.1.1)
       sass-rails (>= 3.1.1)
-    foundation-rails (5.5.2.1)
-      railties (>= 3.1.0)
-      sass (>= 3.3.0, < 3.5)
+    foundation-rails (6.5.1.0)
     fuubar (2.5.0)
       rspec-core (~> 3.0)
       ruby-progressbar (~> 1.4)
@@ -536,7 +534,7 @@ GEM
       thor (>= 0.18.1, < 2.0)
     rainbow (3.0.0)
     raindrops (0.19.1)
-    rake (13.0.1)
+    rake (13.0.3)
     ransack (1.8.10)
       actionpack (>= 3.0, < 5.2)
       activerecord (>= 3.0, < 5.2)
@@ -762,7 +760,7 @@ DEPENDENCIES
   ffaker
   figaro
   foundation-icons-sass-rails
-  foundation-rails (= 5.5.2.1)
+  foundation-rails (= 6.5.1.0)
   fuubar (~> 2.5.0)
   geocoder
   gmaps4rails
